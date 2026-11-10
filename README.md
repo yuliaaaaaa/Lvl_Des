@@ -1,4 +1,5 @@
 # Deck Arena_Final
+<img width="1280" height="925" alt="image" src="https://github.com/user-attachments/assets/5f17c86a-1d2f-4e68-91a4-159013aa0954" />
 
 Unity **6000.0.70f1**. Open `Assets/Scenes/Deck Arena_Final.unity` and press Play. The scene uses the existing Starter Assets third-person controller (WASD, mouse, Shift to sprint, Space to jump).
 
